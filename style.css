@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.navbar-expand-lg {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    background-color: rgb(57, 81, 219);
+}
+.navbar-brand {
+font-size: 2rem;
+color: white;
+margin-right: 2%;
+margin-left: 200px;
+}
+.navbar-brand:hover{
+    color:black;
+}
+.forntt {
+    font-size: 23px;
+    font-size: 23px;
+    font-size: 23px;
+    font-size: 23px;
+
+}
+
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color:white;
+    
+}
+.nav-link:hover{
+    color: black;
+}
+.main{
+    background: url(./img/Return_of_Sports.jpg)no-repeat;
+    background-size: cover;
+    height: 90vh;
+    background-position: 50% 50%;
+    width: 100%; 
+    
+  
+}
+.main h1{
+    font-size: 4rem;
+    font: weight 700 ;
+    color:blueviolet;
+
+
+}
+
+.ul-margin{
+    margin-left: 509px;
+}
